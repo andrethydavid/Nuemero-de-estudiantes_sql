@@ -3,6 +3,7 @@
 Proyecto estudaintes 
 Vamos medir el comportamiento de ellos con sus estudios diarios
 
+# FUNCIONES BASICAS 
 
 ```
 
@@ -38,6 +39,7 @@ FROM (
  WHERE row_id < 6
 ;
 
-```![image](https://user-images.githubusercontent.com/72534486/224216783-c31c68e9-2efb-49a6-b92e-e906aa9a4295.png)
+```
+![image](https://user-images.githubusercontent.com/72534486/224216898-ea7dff20-f8d9-4f90-981d-16fe53933128.png)
 
 
